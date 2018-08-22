@@ -1,0 +1,20 @@
+{
+	"appNameNewTab": {
+		"message": "Режим 'Новая вкладка' - DuckieTV  - Nightly"
+	},
+	"appShortNameNewTab": {
+		"message": "DuckieTV  - Nightly"
+	},
+	"appDescNewTab": {
+		"message": "Все, что вы должны знать, когда вы приходите любимый международного сериал на "
+	},
+	"appNameBrowserAction": {
+		"message": "DuckieTV - Кнопка Браузер режим - Nightly"
+	},
+	"appShortNameBrowserAction": {
+		"message": "DuckieTV  - Nightly"
+	},
+	"appDescBrowserAction": {
+		"message": "Все, что вы должны знать, когда вы приходите любимый международного сериал на"
+	}
+}
