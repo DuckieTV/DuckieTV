@@ -1,0 +1,20 @@
+{
+	"appNameNewTab": {
+		"message": "DuckieTV - Modalità 'Nuova scheda' - Nightly"
+	},
+	"appShortNameNewTab": {
+		"message": "DuckieTV - Nightly"
+	},
+	"appDescNewTab": {
+		"message": "Gestisci le tue serie TV preferite e film con la modalità nuova scheda"
+	},
+	"appNameBrowserAction": {
+		"message": "DuckieTV - Modalità 'Browser Action' - Nightly"
+	},
+	"appShortNameBrowserAction": {
+		"message": "DuckieTV - Nightly"
+	},
+	"appDescBrowserAction": {
+		"message": "Gestisci le tue serie TV preferite e film all'interno del tuo browser con il click"
+	}
+}

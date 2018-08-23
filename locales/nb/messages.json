@@ -1,0 +1,20 @@
+{
+	"appNameNewTab": {
+		"message": "DuckieTV - 'Ny fane' modus - Nightly"
+	},
+	"appShortNameNewTab": {
+		"message": "DuckieTV - Nightly"
+	},
+	"appDescNewTab": {
+		"message": "Administrere din favoritt TV-serier og filmer fra nettleserens ny fane"
+	},
+	"appNameBrowserAction": {
+		"message": "DuckieTV - 'Nettleserhandling' modus - Nightly"
+	},
+	"appShortNameBrowserAction": {
+		"message": "DuckieTV - Nightly"
+	},
+	"appDescBrowserAction": {
+		"message": "Administrere din favoritt TV-serier og filmer fra nettleseren din ved å klikke på en knapp"
+	}
+}
