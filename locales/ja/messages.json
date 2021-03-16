@@ -1,0 +1,20 @@
+{
+	"appNameNewTab": {
+		"message": "DuckieTV - 「新しいタブ」モード  - Nightly"
+	},
+	"appShortNameNewTab": {
+		"message": "DuckieTV  - Nightly"
+	},
+	"appDescNewTab": {
+		"message": "あなたはあなたが好きな国際的なTVシリーズを来るとき知っておく必要があるすべて "
+	},
+	"appNameBrowserAction": {
+		"message": "DuckieTV - ブラウザボタン」モード  - Nightly"
+	},
+	"appShortNameBrowserAction": {
+		"message": "DuckieTV  - Nightly"
+	},
+	"appDescBrowserAction": {
+		"message": "あなたはあなたが好きな国際的なTVシリーズを来るとき知っておく必要があるすべて"
+	}
+}
