@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="tv.duckie" versionCode="10" version="1.1.4">
+    <name>Social</name>
+    <name>DuckieTV</name>
+    <description>The TV-Show Tracker You've been waiting for</description>
+    <author href="https://duckie.tv/" email="tvduckie@gmail.com">DuckieTV</author>
+    <content src="index.html" />
+    <access origin="*" />
+
+    <preference name="orientation" value="landscape" />
+    <preference name="EnableViewportScale" value="true" />
+
+    <preference name="android-minSdkVersion" value="13" />
+    <preference name="android-maxSdkVersion" value="13" />
+    <preference name="android-installLocation" value="auto" />
+
+    <gap:splash gap:platform="android" gap:density="hdpi" src="res/screen/android/drawable-land-hdpi.png" />
+    <gap:splash gap:platform="android" gap:density="ldpi" src="res/screen/android/drawable-land-ldpi.png" />
+    <gap:splash gap:platform="android" gap:density="mdpi" src="res/screen/android/drawable-land-mdpi.png" />
+    <gap:splash gap:platform="android" gap:density="xhdpi" src="res/screen/android/drawable-land-xhdpi.png" />
+
+
+    <platform name="android">
+        <icon gap:platform="android" gap:density="ldpi" src="res/icon/android/drawable-ldpi.png" />
+        <icon gap:platform="android" gap:density="mdpi" src="res/icon/android/drawable-mdpi.png" />
+        <icon gap:platform="android" gap:density="hdpi" src="res/icon/android/drawable-hdpi.png" />
+        <icon gap:platform="android" gap:density="xhdpi" src="res/icon/android/drawable-xhdpi.png" />
+    </platform>
+
+    
+    <preference name="AndroidExtraFilesystems" value="sdcard" />
+
+    <preference name="permissions" value="none"/>
+    <allow-navigation href="http://*/*" />
+    <allow-navigation href="https://*/*" />
+    <allow-navigation href="magnet://*/*" />
+
+    <feature name="File">
+        <param name="android-package" value="org.apache.cordova.FileUtils" />
+    </feature>
+
+    <gap:plugin name="cordova-plugin-whitelist" source="npm" />
+    <gap:plugin name="cordova-plugin-file" source="npm" />
+    <gap:plugin name="cordova-plugin-splashscreen" source="npm" />
+
+    
+</widget>
